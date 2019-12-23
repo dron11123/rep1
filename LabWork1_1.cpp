@@ -10,6 +10,7 @@
 Вывести все массивы.
 */
 //ПРИВЕТ АНДРЕЙ
+//ПОКА МАКСИМ!!
 
 void OutputArray(int arr[], size_t arr_size)
 {

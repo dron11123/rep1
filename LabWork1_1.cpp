@@ -11,6 +11,7 @@
 */
 //ПРИВЕТ АНДРЕЙ
 //ПОКА МАКСИМ!!
+//БУТЕР
 
 void OutputArray(int arr[], size_t arr_size)
 {
